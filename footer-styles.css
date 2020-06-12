@@ -55,4 +55,9 @@ background-color: #55A8AE;;
     justify-content: space-evenly;
     margin-left: -15px;
     padding-bottom: 2vw;
+    color:white;
+}
+
+.footer .footer-social div a{
+    color:white;
 }
